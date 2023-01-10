@@ -6,10 +6,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 /*
-Java Tetris game clone
+Java Tetris Game
 
-Author: Jan Bodnar
-Website: https://zetcode.com
+Author: Gamzatova A.
+Dagestan State University
  */
 public class Tetris extends JFrame {
 
